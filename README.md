@@ -19,16 +19,6 @@
   <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" height="22"/>
 </p>
 
----
-
-## ⚡ Current Focus
-
-- 📊 Building scalable data analytics systems
-- ⚡ Designing ETL pipelines (SQL + Cloud)
-- 🧠 Developing financial & business intelligence models
-- 📈 Automating reporting & dashboard systems
-
----
 
 ## 📌 Projects
 
@@ -38,7 +28,12 @@
 - 📊 [Customer Conversion Prediction — Machine Learning](https://github.com/xiangyuan0612/Customer-Conversion-Prediction/blob/main/README.md)  
   → Customer conversion prediction model using machine learning to optimize marketing targeting and improve subscription rate.
 
----
+## ⚡ Current Focus
+
+- 📊 Building scalable data analytics systems
+- ⚡ Designing ETL pipelines (SQL + Cloud)
+- 🧠 Developing financial & business intelligence models
+- 📈 Automating reporting & dashboard systems
 
 ## 🔗 Links
 
