@@ -35,8 +35,8 @@
 - ⌚️ [Time Series Forecasting](https://github.com/xiangyuan0612/Atm-cash-forecasting)  
   → Statistical forecasting model for ATM cash demand prediction  
 
-- 🐾 [ClawHub](https://github.com/yourname/clawhub)  
-  → Data / AI workspace for modular analytics and tooling  
+- 📊 [Customer Conversion Prediction — Machine Learning](https://github.com/xiangyuan0612/Customer-Conversion-Prediction/blob/main/README.md)  
+  → Customer conversion prediction model using machine learning to optimize marketing targeting and improve subscription rate.
 
 ---
 
