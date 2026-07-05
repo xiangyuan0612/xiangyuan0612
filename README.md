@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/QuickSight-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="22"/>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" height="22"/>
   <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" height="22"/>
 </p>
 
