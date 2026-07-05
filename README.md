@@ -13,10 +13,17 @@
 
 ## ⚒️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue)
-![SQL](https://img.shields.io/badge/SQL-orange)
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
-![AWS](https://img.shields.io/badge/AWS-black)
+
+![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Amazon QuickSight](https://img.shields.io/badge/QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
