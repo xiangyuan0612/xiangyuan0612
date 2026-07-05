@@ -1,7 +1,8 @@
 # Hi, I'm Xiangyuan Li 👋
 
 🚀 Data Analyst | Business Intelligence Engineer | Business Analyst<br>
-📍 Shanghai
+📍 Shanghai <br> 韩国F4签证，美国10年签证
+
 ## Tech Stack
 
 <p>
