@@ -1,29 +1,40 @@
 # Hi, I'm Xiangyuan Li 👋
 
 🚀 Data Analyst | Business Intelligence Engineer | Business Analyst | Data Engineer
+📍 Shanghai | Global job seeker
 
 ---
 
-## 🧠 About Me
-- Data / AI / Finance
-- SQL | Python | Power BI
-- Building automation & analytics tools
+## 🧠 What I do
+
+I build data systems, automate analytics workflows,  
+and turn raw data into business decisions.
 
 ---
 
-## ⚒️ Tech Stack
+## ⚒️ Current Projects
 
+- 📊 **Market Analytics System** — Python + SQL + API for stock/ETF analysis
+- ⚡ **ETL Automation Pipeline** — Airflow + PostgreSQL + GCP
+- 📈 **BI Dashboard System** — Power BI + QuickSight for KPI monitoring
+- 🧠 **Data Research Toolkit** — financial + macro data aggregation engine
 
-![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Amazon QuickSight](https://img.shields.io/badge/QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+## 🧰 Tech Stack
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- Redshift · PostgreSQL · SQL
+- Python · R · VBA
+- Power BI · QuickSight
+- Google Cloud Platform
+
+---
+
+## 🧾 Past Experience
+
+- Amazon — Data Analyst (BI & supply chain analytics)
+- Feike Electric — E-commerce Data Manager
+- Beijing Hyundai — CRM analytics
 
 ---
 
@@ -31,25 +42,10 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=YOURNAME)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURNAME)
-
----
-
-## 🚀 Current Projects
-
-- 🧠 Stock Analysis System (Python + API + Backtest)
-- 📊 BI Dashboard Automation (SQL + Power BI)
-- ⚡ ETL Pipeline (Airflow + PostgreSQL)
-- 📈 Market Data Research Toolkit
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURNAME)
 
 ---
 
 ## 📈 Activity
 
 ![graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURNAME)
-
----
-
-## 🐍 Contribution Snake
-
-![snake](https://github.com/YOURNAME/YOURNAME/blob/output/github-contribution-grid-snake.svg)
