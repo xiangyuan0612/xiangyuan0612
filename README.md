@@ -5,47 +5,75 @@
 
 ---
 
-## 🧠 What I do
+# Hi, I'm YOUR_NAME 👋
 
-I build data systems, automate analytics workflows,  
-and turn raw data into business decisions.
+📊 Data Analyst · Data Engineer · BI Developer  
+📍 Shanghai · Open to global opportunities
 
 ---
 
-## ⚒️ Current Projects
+## 🧭 About
 
-- 📊 **Market Analytics System** — Python + SQL + API for stock/ETF analysis
-- ⚡ **ETL Automation Pipeline** — Airflow + PostgreSQL + GCP
-- 📈 **BI Dashboard System** — Power BI + QuickSight for KPI monitoring
-- 🧠 **Data Research Toolkit** — financial + macro data aggregation engine
+I build data systems that transform raw data into insights,  
+design ETL pipelines, and develop analytics platforms for business decisions.
+
+---
+
+## ⚒️ Current Focus
+
+- 📊 Building scalable data analytics systems
+- ⚡ Designing ETL pipelines (SQL + Cloud)
+- 🧠 Developing financial & business intelligence models
+- 📈 Automating reporting & dashboard systems
 
 ---
 
 ## 🧰 Tech Stack
 
-- Redshift · PostgreSQL · SQL
-- Python · R · VBA
-- Power BI · QuickSight
-- Google Cloud Platform
+### Data & Warehousing
+![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-## 🧾 Past Experience
+### BI & Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Amazon QuickSight](https://img.shields.io/badge/QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-- Amazon — Data Analyst (BI & supply chain analytics)
-- Feike Electric — E-commerce Data Manager
-- Beijing Hyundai — CRM analytics
+### Cloud & Tools
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOURNAME)
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_NAME&show_icons=true)
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURNAME)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NAME)
 
 ---
 
 ## 📈 Activity
 
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURNAME)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_NAME)
+
+---
+
+## 🚀 What I'm Building
+
+- 📊 Market intelligence systems (Python + SQL + APIs)
+- ⚡ Automated ETL pipelines (Cloud + Redshift)
+- 🧠 BI dashboards for business decision-making
+- 📈 Financial data analytics engines
+
+---
+
+## 🔗 Links
+
+- GitHub: https://github.com/YOUR_NAME
+- LinkedIn: https://linkedin.com/in/YOUR_NAME
+- Email: YOUR_EMAIL
