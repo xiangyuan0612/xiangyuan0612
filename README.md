@@ -1,7 +1,7 @@
 # Hi, I'm Xiangyuan Li 👋
 
-🚀 Data Analyst | Business Intelligence Engineer | Business Analyst
-📍 Shanghai | Global job seeker
+🚀 Data Analyst | Business Intelligence Engineer | Business Analyst<br>
+📍 Shanghai
 ## Tech Stack
 
 <p>
