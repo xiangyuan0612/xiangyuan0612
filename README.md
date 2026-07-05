@@ -1,8 +1,19 @@
 # Hi, I'm Xiangyuan Li 👋
 
-🚀 Data Analyst | Business Intelligence Engineer | Business Analyst | Data Engineer
+🚀 Data Analyst | Business Intelligence Engineer | Business Analyst
 📍 Shanghai | Global job seeker
+## Tech Stack
 
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-111111?style=for-the-badge)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ---
 
 # Hi, I'm YOUR_NAME 👋
