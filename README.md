@@ -30,8 +30,8 @@
 ## Projects
 
 
-- 🦀 [Time Series Forecasting](https://github.com/yourname/openclaw) - the AI that actually does things  
-- 🐾 [ClawHub](https://github.com/yourname/clawhub) - OpenClaw skill directory  
+- ⌚️ [Time Series Forecasting](https://github.com/xiangyuan0612/Atm-cash-forecasting) - the statistical forecasting 
+- 🐾 [ClawHub](https://github.com/yourname/clawhub) - 
  
 ## 🔗 Links
 
