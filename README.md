@@ -27,21 +27,13 @@
 
 
 
-## Current Projects
+## Projects
 
-### OpenClaw Core
 
-- 🦀 [OpenClaw](https://github.com/yourname/openclaw) - the AI that actually does things  
+- 🦀 [Time Series Forecasting](https://github.com/yourname/openclaw) - the AI that actually does things  
 - 🐾 [ClawHub](https://github.com/yourname/clawhub) - OpenClaw skill directory  
-- 🧹 [ClawSweeper](https://github.com/yourname/clawsweeper) - Weekly issue and PR triage bot  
-- 💬 [ClickClack](https://github.com/yourname/clickclack) - Realtime team chat for OpenClaw agents and humans  
-- 🧩 [clawdex](https://github.com/yourname/clawdex) - Local-first contact crawler and markdown archive CLI  
-- 🧪 [clawpatch](https://github.com/yourname/clawpatch) - Automated code review that lands fixes  
-- 🦀 [Crabbox](https://github.com/yourname/crabbox) - Warm a box, sync the diff, run the suite  
-- 🎮 [Crabfleet](https://github.com/yourname/crabfleet) - Mission control for agent runs  
-- 🧪 [ask-molty](https://github.com/yourname/ask-molty) - Ask Molty, shipped as an OpenClaw workspace  
+ 
 ## 🔗 Links
 
-- GitHub: https://github.com/YOUR_NAME
-- LinkedIn: https://linkedin.com/in/YOUR_NAME
-- Email: YOUR_EMAIL
+- LinkedIn: [https://linkedin.com/in/YOUR_NAME](https://www.linkedin.com/in/xiangyuan-li-6baa80145/)
+- Email: lixiangyuan0612@gmail.com
