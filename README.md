@@ -1,7 +1,7 @@
 # Hi, I'm Xiangyuan Li 👋
 
 🚀 Data Analyst | Business Intelligence Engineer | Business Analyst  
-📍 Shanghai | 🇰🇷 Eligible to work in South Korea (F-4 Visa)
+📍 Shanghai | Eligible to work in 🇰🇷 South Korea (F-4 Visa)
 
 ---
 
