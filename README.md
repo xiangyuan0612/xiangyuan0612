@@ -32,7 +32,7 @@
 
 ## 📌 Projects
 
-- ⌚️ [Time Series Forecasting](https://github.com/xiangyuan0612/Atm-cash-forecasting)  
+- ⌚️ [ATM cash demand forecasting - Time Series Forecasting](https://github.com/xiangyuan0612/Atm-cash-forecasting)  
   → Statistical forecasting model for ATM cash demand prediction  
 
 - 📊 [Customer Conversion Prediction — Machine Learning](https://github.com/xiangyuan0612/Customer-Conversion-Prediction/blob/main/README.md)  
