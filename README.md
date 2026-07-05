@@ -1,6 +1,6 @@
-# Hi, I'm XXX 👋
+# Hi, I'm Xiangyuan Li 👋
 
-🚀 Builder | Data Analyst | Python Engineer
+🚀 Data Analyst | Business Intelligence Engineer | Business Analyst | Data Engineer
 
 ---
 
